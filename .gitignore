@@ -1,0 +1,12 @@
+# jetbrains
+.idea
+*.iml
+
+# node
+node_modules
+
+# dist
+dist
+
+# test.js
+test.js

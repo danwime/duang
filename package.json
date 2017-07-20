@@ -1,0 +1,12 @@
+{
+  "name": "duang",
+  "version": "1.0.0",
+  "description": "Danwi Universal Api Network Gateway",
+  "main": "index.js",
+  "repository": "https://github.com/danwime/duang.git",
+  "author": "demon <demon@danwi.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
